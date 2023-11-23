@@ -1,0 +1,13 @@
+.places img {
+  border-radius: 1rem;
+  filter: brightness(30%); /* You can adjust the percentage as needed */
+}
+
+header {
+  background-image: url(pics/gif.gif);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(85%); /* Adjust the percentage as needed */
+
+}
